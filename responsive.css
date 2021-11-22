@@ -25,7 +25,14 @@ nav ul li {
   }
   div.wrapper {min-width: 600px;} {
 }
-
+/* under 500 px*/
+  @media screen and (max-width: 31.25em) {
+    header h1 {
+      font-size: 48px;
+      padding: 0;
+      text-align: center;
+    }
+  }
 
 
 
