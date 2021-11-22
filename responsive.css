@@ -18,6 +18,12 @@ nav ul li {
       width: 90%;
       margin: 0 1em 1.5em;
   }
+  #col3 img {
+    float: left;
+    width: 30%;
+    margin: .5em 1em 1em 0;
+  }
+  div.wrapper {min-width: 600px;} {
 }
 
 
