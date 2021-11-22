@@ -32,7 +32,17 @@ nav ul li {
       padding: 0;
       text-align: center;
     }
+    nav ul li {width: 50%}
+    #col1, #col2, #col3 {
+      margin: 0;
+      float: none;
+      width: 100%;
+    }
+ 
+    img {
+  display: block;
+  margin: 0 auto;
+    }
   }
-
 
 
